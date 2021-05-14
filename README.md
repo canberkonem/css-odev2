@@ -1,0 +1,1 @@
+Patika.dev Front End eğitimi CSS Ödev-2 için hazırlanmıştır.
